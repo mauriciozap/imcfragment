@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IMCfragment.app</string>
+    <string name="texto_etiqueta_peso">proporcione el peso en kilometros:</string>
+    <string name="texto_etiqueta_estatura">proporcione la estatura en metros:</string>
+    <string name="texto_boton_calcular">calcular</string>
+    <string name="texto_boton_limpiar">limpiar</string>
+    <string name="texto_etiqueta_resultado">el indice de masa comporal(IMC) ES :</string>
+</resources>
